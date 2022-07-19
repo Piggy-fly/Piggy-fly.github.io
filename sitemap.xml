@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://github.com/Piggy-fly/Piggy-fly.github.io/2022/07/18/hello-world/</loc>
+    <loc>https://piggy-fly.github.io/2022/07/18/hello-world/</loc>
     
     <lastmod>2022-07-18</lastmod>
     
@@ -12,7 +12,7 @@
   
 
   <url>
-    <loc>https://github.com/Piggy-fly/Piggy-fly.github.io</loc>
+    <loc>https://piggy-fly.github.io/</loc>
     <lastmod>2022-07-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>

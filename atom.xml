@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://github.com/Piggy-fly/Piggy-fly.github.io/atom.xml" rel="self"/>
+  <link href="https://piggy-fly.github.io/atom.xml" rel="self"/>
   
-  <link href="https://github.com/Piggy-fly/Piggy-fly.github.io/"/>
+  <link href="https://piggy-fly.github.io/"/>
   <updated>2022-07-18T09:02:23.442Z</updated>
-  <id>https://github.com/Piggy-fly/Piggy-fly.github.io/</id>
+  <id>https://piggy-fly.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/Piggy-fly/Piggy-fly.github.io/2022/07/18/hello-world/"/>
-    <id>https://github.com/Piggy-fly/Piggy-fly.github.io/2022/07/18/hello-world/</id>
+    <link href="https://piggy-fly.github.io/2022/07/18/hello-world/"/>
+    <id>https://piggy-fly.github.io/2022/07/18/hello-world/</id>
     <published>2022-07-18T11:39:58.496Z</published>
     <updated>2022-07-18T09:02:23.442Z</updated>
     
